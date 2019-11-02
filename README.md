@@ -11,6 +11,24 @@ React Starter using CRA and React Router
 - 📱 Mobile friendly
 - 🚀 Templates for reducers and components
 
+### Folder Structure
+
+```shell
+├── src/
+  ├── Api/ # DB
+  ├── Lib/ # Context Api
+      └── contexts
+      └── reducers
+  ├── Modules/
+      └── components
+          └── App
+      └── core
+      └── helpers
+      └── hooks   # custom hooks
+      └── router
+  └── Pages
+```
+
 ### Providers
 
 All providers are found [in the app's entry point](src/Modules/components/App/index.jsx)
