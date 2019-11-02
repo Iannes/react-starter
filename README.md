@@ -11,6 +11,10 @@ React Starter using CRA and React Router
 - 📱 Mobile friendly
 - 🚀 Templates for reducers and components
 
+### Providers
+
+All providers are found [in the app's entry point](src/Modules/components/App/index.jsx)
+
 ## Available Scripts
 
 In the project directory, you can run:
