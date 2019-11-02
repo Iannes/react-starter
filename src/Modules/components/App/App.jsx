@@ -1,8 +1,9 @@
+// @ts-check
 import React from "react"
 
-const App = () => (
+const App = ({ name = "App" }) => (
   <section className="App">
-    <h3>App</h3>
+    <h3>{name}</h3>
   </section>
 )
 
