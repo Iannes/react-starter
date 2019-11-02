@@ -9,6 +9,7 @@ React Starter using CRA and React Router
 - 🛣 React Router
 - 🎨 Storybook
 - 📱 Mobile friendly
+- 🚀 Templates for reducers and components
 
 ## Available Scripts
 
